@@ -8,5 +8,6 @@ public class Main {
         System.out.println(onegin.inf());
         obelisk.setYear(2022);
         System.out.println(obelisk.inf());
+
     }
 }
